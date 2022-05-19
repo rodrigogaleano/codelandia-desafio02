@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import './Assets/Styles/App.css';
+import Cabecalho from './Components/Cabecalho';
+import Banner from './Components/Banner';
+import Destaques from './Components/Destaques';
+import Rodape from './Components/Rodape';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Cabecalho/>
+      <Banner/>
+      <Destaques/>
+      <Rodape/>
     </div>
   );
 }
