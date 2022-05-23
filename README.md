@@ -26,8 +26,9 @@ Você pode acessar o design do projeto através do [Figma](https://www.figma.com
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rodrigogaleano/codelandia-desafio01.git
+$ git clone https://github.com/rodrigogaleano/codelandia-desafio02.git
 # Acesse a pasta do projeto no seu terminal
+$ cd codelandia-desafio02
 # Instale as dependências
 $ npm install
 # Execute a aplicação em modo de desenvolvimento
