@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Projeto desenvolvido a partir de um desafio da Codelândia, comunidade do discord do [Iuri Code](https://iuricode.com/). Trata-se do layout de um blog, você pode acessar a demo através deste [link](https://rodrigogaleano-codelandia-desafio02.vercel.app/).
+Projeto desenvolvido a partir de um desafio da Codelândia, comunidade do discord do [Iuri Code](https://iuricode.com/). Trata-se do layout de um blog, você pode acessar a demo através deste [link](https://rodrigo-galeano-codelandia-desafio02.vercel.app/).
 
 ## Design
 
